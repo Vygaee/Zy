@@ -32,7 +32,6 @@ from Musikku.utils.database import (
     set_loop,
 )
 from Musikku.utils.exceptions import AssistantErr
-from Musikku.utils.formatters import check_duration, seconds_to_min, speed_converter
 from Musikku.utils.inline.play import stream_markup
 from Musikku.utils.stream.autoclear import auto_clean
 from Musikku.utils.thumbnails import gen_thumb
